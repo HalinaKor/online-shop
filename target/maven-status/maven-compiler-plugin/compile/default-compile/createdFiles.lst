@@ -1,0 +1,13 @@
+flower\shop\online\service\UserService.class
+flower\shop\online\web\dto\UserRegistrationDto.class
+flower\shop\online\repository\UserRepository.class
+flower\shop\online\Application.class
+flower\shop\online\constraint\FieldMatchValidator.class
+flower\shop\online\model\Role.class
+flower\shop\online\web\UserRegistrationController.class
+flower\shop\online\service\UserServiceImpl.class
+flower\shop\online\config\SecurityConfiguration.class
+flower\shop\online\constraint\FieldMatch$List.class
+flower\shop\online\constraint\FieldMatch.class
+flower\shop\online\model\User.class
+flower\shop\online\web\MainController.class
